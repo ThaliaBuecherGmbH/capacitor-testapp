@@ -4,9 +4,9 @@
   <string name="title_activity_main">capacitor-testapp</string>
   <string name="package_name">com.capacitorjs.app.testapp</string>
   <string name="custom_url_scheme">com.capacitorjs.app.testapp</string>
-  <string name="ionic_app_id">284f3a10</string>
+  <string name="ionic_app_id">5a9c18f8</string>
   <string name="ionic_channel_name">Production</string>
-  <string name="ionic_update_method">background</string>
+  <string name="ionic_update_method">auto</string>
   <string name="ionic_max_versions">2</string>
   <string name="ionic_min_background_duration">30</string>
   <string name="ionic_update_api">https://api.ionicjs.com</string>

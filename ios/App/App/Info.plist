@@ -76,11 +76,11 @@
     <key>UIViewControllerBasedStatusBarAppearance</key>
     <true />
     <key>IonAppId</key>
-    <string>284f3a10</string>
+    <string>5a9c18f8</string>
     <key>IonChannelName</key>
     <string>Production</string>
     <key>IonUpdateMethod</key>
-    <string>background</string>
+    <string>auto</string>
     <key>IonMaxVersions</key>
     <string>2</string>
     <key>IonMinBackgroundDuration</key>
