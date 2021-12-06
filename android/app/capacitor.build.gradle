@@ -33,7 +33,7 @@ dependencies {
     implementation project(':capacitor-toast')
 
 }
-
+apply from: "../../node_modules/cordova-plugin-ionic/src/android/cordovapluginionic.gradle"
 
 if (hasProperty('postBuildExtras')) {
   postBuildExtras()
