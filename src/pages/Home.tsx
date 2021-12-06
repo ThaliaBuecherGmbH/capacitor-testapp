@@ -21,7 +21,7 @@ const Home: React.FC = () => {
         </IonToolbar>
       </IonHeader>
       <IonContent>
-        <p>Wilkommen zur Thalia Test App</p>
+        <p>Das ist ein Live Update</p>
         <p>
           This app was created to test and develop Capacitor core and plugins.
           To test plugins, open the side menu and navigate to the plugin's page!
